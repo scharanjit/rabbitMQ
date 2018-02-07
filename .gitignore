@@ -1,0 +1,5 @@
+
+.gitignore
+.idea/inspectionProfiles/
+.idea/vcs.xml
+target/generated-sources/
